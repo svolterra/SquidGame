@@ -3,7 +3,8 @@ to learn more about Javascript Three.js and to work and have fun with [friends](
 
 All credit goes to 
 [Angel Brace](https://www.youtube.com/c/AngleBrace),
-[freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ), and [Squid Game](https://www.google.com/search?q=squid+gamr&oq=squid+gamr&aqs=chrome..69i57j46i10i433j0i10i433l2j0i10j0i10i433l2j0i10j0i10i433.1821j0j7&sourceid=chrome&ie=UTF-8) creators!
+[freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ), 
+and [Squid Game](https://www.google.com/search?q=squid+game&oq=squid+game++&aqs=chrome..69i57j69i59j0i433i512l3j69i60l3.4388j0j7&sourceid=chrome&ie=UTF-8) creators!
 
 ---
 
